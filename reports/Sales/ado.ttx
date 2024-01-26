@@ -1,0 +1,7 @@
+Amount	number
+CustomerName	string	100
+Classification	string	100
+idnumber	number
+Salesdate	Date
+Deliveryman	string	100
+SoldItem	string	1000	

@@ -1,0 +1,5 @@
+customerName	string	100
+id_Number	number
+Classification	string	100
+Salesdate	Date
+transaction_details	string	1000

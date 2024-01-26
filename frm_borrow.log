@@ -1,0 +1,4 @@
+Line 53: Class MSComctlLib.Toolbar of control tb_additem was not a loaded control class.
+Line 85: Class MSComctlLib.ImageList of control img_main was not a loaded control class.
+Line 107: Class MSAdodcLib.Adodc of control ado_customeritem was not a loaded control class.
+Line 154: Class MSAdodcLib.Adodc of control ado_itemlist was not a loaded control class.

@@ -1,0 +1,4 @@
+Item_title	string	200
+Item_Cost	number
+Date_of_Ex	Date
+TN	number

@@ -1,0 +1,7 @@
+Balance	number
+CustomerName	string	100
+Classification	string	100
+Orderdate	Date
+Deliveryman	string	100
+SoldItem	string	1000	
+Contanct	string	100

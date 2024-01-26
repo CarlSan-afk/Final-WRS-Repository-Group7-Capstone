@@ -1,0 +1,5 @@
+Line 20: Class MSAdodcLib.Adodc of control ado_task was not a loaded control class.
+Line 67: Class MSComctlLib.ListView of control lstview_task was not a loaded control class.
+Line 114: Class MSComCtl2.MonthView of control cal_task was not a loaded control class.
+Line 143: Class MSComctlLib.Toolbar of control tb_task was not a loaded control class.
+Line 175: Class MSComctlLib.ImageList of control img_main was not a loaded control class.

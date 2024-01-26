@@ -1,0 +1,3 @@
+Line 110: Class MSComctlLib.ListView of control lstview_customer was not a loaded control class.
+Line 176: Class MSAdodcLib.Adodc of control ado_customer was not a loaded control class.
+Line 223: Class MSAdodcLib.Adodc of control ado_task was not a loaded control class.

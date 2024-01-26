@@ -1,0 +1,7 @@
+Item_title	string	100
+qrcode	string	100
+type	string	20
+Discription	string	200
+stocks	number
+borrowed	number
+damaged	number

@@ -1,0 +1,8 @@
+Balance	number
+amount	number
+CustomerName	string	100
+Classification	string	100
+idnumber	number
+date_of_sales	Date
+Deliveryman	string	100
+SoldItem	string	1000	

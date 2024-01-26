@@ -1,0 +1,8 @@
+ID_number	number
+Customer_Name	string	50
+Classification	string	50
+Address	string	150
+facebook	string	150
+dateLastBuy	Date
+image	Memo
+contact	string	100

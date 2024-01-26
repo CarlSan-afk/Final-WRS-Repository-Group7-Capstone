@@ -1,0 +1,276 @@
+[Root]
+Most Recent Package=WRSv3
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS\Package
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Windows\SysWOW64\crviewer.dll=
+C:\Windows\SysWOW64\crystalwizard.dll=
+C:\Windows\SysWOW64\craxdui.dll=
+C:\Windows\SysWOW64\craxdrt.dll=
+C:\Windows\SysWOW64\craxddrt.dll=
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=
+C:\Windows\System32\IPHLPAPI.DLL=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\MSCOMCT2.OCX=
+C:\Windows\SysWOW64\comdlg32.ocx=
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+C:\Windows\SysWOW64\MSDATGRD.OCX=
+C:\Windows\SysWOW64\MSStdFmt.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\windows\syswow64\crpe32.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS\waterwillywrs.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\IPHLPAPI.DLL=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=Yes
+C:\Windows\SysWOW64\MSBIND.DLL=Yes
+C:\Windows\SysWOW64\MSStdFmt.dll=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Program Files (x86)\Common Files\designer\MSDERUN.DLL=Yes
+C:\Windows\SysWOW64\craxddrt.dll=Yes
+C:\Windows\SysWOW64\craxdrt.dll=Yes
+C:\Windows\SysWOW64\craxdui.dll=Yes
+C:\Windows\SysWOW64\crystalwizard.dll=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\MSDATGRD.OCX=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\comdlg32.ocx=Yes
+C:\Windows\SysWOW64\MSCOMCT2.OCX=Yes
+C:\Windows\SysWOW64\Crystl32.OCX=Yes
+C:\Windows\SysWOW64\crpe32.dll=No
+C:\Windows\SysWOW64\crviewer.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS\waterwillywrs.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\IPHLPAPI.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSStdFmt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\SysWOW64\craxddrt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\craxdrt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\craxdui.dll=$(WinSysPath)
+C:\Windows\SysWOW64\crystalwizard.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\comdlg32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\Crystl32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\crpe32.dll=$(WinSysPath)
+C:\Windows\SysWOW64\crviewer.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS\waterwillywrs.exe=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=WRS_Management_System
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=WRS_Management_System
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|WRS_Management_System]
+Icon1=waterwillywrs.exe
+Title1=WRS_Management_System
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS\Package
+ProjectFolder=C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS
+ServerSideCab=
+File1=C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS\Package\setup.exe
+File2=C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS\Package\Setup.Lst
+File3=C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS\Package\waterwillywrs.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|WRSv3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\maaba\OneDrive\Mackee Files\VB Program\WaterWillyWRS\WRS_V4
+
+[Package|WRSv3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|WRSv3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|WRSv3|Files Found]
+
+[Package|WRSv3|Files Released]
+
+[Package|WRSv3|Missing Dependency Information]
+C:\Windows\SysWOW64\crviewer.dll=
+C:\Windows\SysWOW64\crystalwizard.dll=
+C:\Windows\SysWOW64\craxdui.dll=
+C:\Windows\SysWOW64\craxdrt.dll=
+C:\Windows\SysWOW64\craxddrt.dll=
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=
+C:\Windows\System32\IPHLPAPI.DLL=
+C:\Windows\SysWOW64\MSStdFmt.dll=
+
+[Package|WRSv3|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\MSCOMCT2.OCX=
+C:\Windows\SysWOW64\comdlg32.ocx=
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+C:\Windows\SysWOW64\MSDATGRD.OCX=
+C:\Windows\SysWOW64\MSStdFmt.dll=
+
+[Package|WRSv3|Files Added]
+
+[Package|WRSv3|Files Removed]
+c:\windows\syswow64\crpe32.dll=
+
+[Package|WRSv3|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\IPHLPAPI.DLL=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=Yes
+C:\Windows\SysWOW64\MSBIND.DLL=Yes
+C:\Windows\SysWOW64\MSStdFmt.dll=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Program Files (x86)\Common Files\designer\MSDERUN.DLL=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\MSDATGRD.OCX=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\comdlg32.ocx=Yes
+C:\Windows\SysWOW64\MSCOMCT2.OCX=Yes
+C:\Windows\SysWOW64\Crystl32.OCX=Yes
+C:\Windows\SysWOW64\crpe32.dll=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\maaba\OneDrive\Mackee Files\VB Program\WaterWillyWRS\waterwillywrs.exe=Yes
+
+[Package|WRSv3|Configure Registry Files]
+Applicable=No
+
+[Package|WRSv3|Configure Remote Servers]
+Applicable=No
+
+[Package|WRSv3|Install Locations]
+C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS\waterwillywrs.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\IPHLPAPI.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSStdFmt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\SysWOW64\craxddrt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\craxdrt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\craxdui.dll=$(WinSysPath)
+C:\Windows\SysWOW64\crystalwizard.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\comdlg32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\Crystl32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\crpe32.dll=$(WinSysPath)
+C:\Windows\SysWOW64\crviewer.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\maaba\OneDrive\Mackee Files\VB Program\WaterWillyWRS\waterwillywrs.exe=$(AppPath)
+
+[Package|WRSv3|Configure Shared Files]
+Applicable=Yes
+C:\Users\Macies Printing\OneDrive\Mackee Files\VB Program\WaterWillyWRS\waterwillywrs.exe=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Users\maaba\OneDrive\Mackee Files\VB Program\WaterWillyWRS\waterwillywrs.exe=No
+
+[Package|WRSv3|Distribution]
+Type=single
+Size=
+Title=WRS_Management_System
+
+[Package|WRSv3|IconGroups]
+Group0=WRS_Management_System
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|WRSv3|WRS_Management_System]
+Icon1=waterwillywrs.exe
+Title1=WRS_Management_System
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|WRSv3|Package]
+PackageFolder=C:\Users\maaba\OneDrive\Mackee Files\VB Program\WaterWillyWRS\WRS_V4
+ProjectFolder=C:\Users\maaba\OneDrive\Mackee Files\VB Program\WaterWillyWRS
+ServerSideCab=
+File1=C:\Users\maaba\OneDrive\Mackee Files\VB Program\WaterWillyWRS\WRS_V4\setup.exe
+File2=C:\Users\maaba\OneDrive\Mackee Files\VB Program\WaterWillyWRS\WRS_V4\Setup.Lst
+File3=C:\Users\maaba\OneDrive\Mackee Files\VB Program\WaterWillyWRS\WRS_V4\waterwillywrs.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

@@ -1,0 +1,11 @@
+Line 21: Class MSAdodcLib.Adodc of control ado_sales was not a loaded control class.
+Line 94: Class MSComctlLib.Toolbar of control Toolbar_main was not a loaded control class.
+Line 142: Class MSComctlLib.ImageList of control img_main was not a loaded control class.
+Line 279: Class MSComctlLib.ListView of control lstview_CI was not a loaded control class.
+Line 416: Class MSAdodcLib.Adodc of control ado_main was not a loaded control class.
+Line 463: Class MSAdodcLib.Adodc of control ado_customeritem was not a loaded control class.
+Line 510: Class MSAdodcLib.Adodc of control ado_delivery was not a loaded control class.
+Line 557: Class MSComctlLib.ImageList of control img_pay was not a loaded control class.
+Line 592: Class MSComctlLib.Toolbar of control tb_pay was not a loaded control class.
+Line 625: Class MSAdodcLib.Adodc of control ado_credit was not a loaded control class.
+Line 680: Class MSComctlLib.ListView of control lstview_order was not a loaded control class.
